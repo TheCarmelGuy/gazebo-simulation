@@ -7,7 +7,7 @@ namespace gazebo
     public:
       WorldPluginMyRobot() : WorldPlugin()
     {
-      printf("Hello World! Welcome to Gazebo\n");
+      printf("Welcome to Komel's World\n");
     }
 
     public:
